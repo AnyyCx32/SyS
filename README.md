@@ -1,2 +1,0 @@
-# SyS
-Practicas
